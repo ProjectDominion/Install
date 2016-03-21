@@ -1,0 +1,8 @@
+-Eclipse, tomcat & jdbc ➜ unzip
+-mySQL & java jdk/jre ➜ install (mySQL: incl path + utf8)
+-copy mysql-connector-java-5.1.18-bin.jar ➜ tomcat/lib/
+-tomcat/webapps/examples/WEB-INF/lib/*.jar ➜ tomcat/lib/
+-in Eclipse: new server (apache tomcat6) ➜ verwijs naar
+-jouw tomcat dir
+-in Servers pane ➜ rechts klik ➜ start
+-check ➜ http://localhost:8080 ➜ tomcat fout 404 = all ok !!
